@@ -1,4 +1,4 @@
-# mall
+# h5Plus-vue
 
 > A Vue.js and h5Plus project
 
