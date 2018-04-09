@@ -27,4 +27,9 @@ npm test
 you should put it in hbuilder software and build it, and last you can see it in mobile
 ```
 
+## Use
+```base
+this is project use vue2.4+vuex+vur-router+es6, so you can learn about for this project with vue
+```
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
