@@ -4,7 +4,7 @@
 
 ## Use
 ```base
-this is project use vue2.4+vuex+vur-router+es6, so you can learn about for this project with vue
+this is project use vue2.4+vuex+vue-router+es6, so you can learn about for this project with vue
 ```
 
 ## Build Setup
