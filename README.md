@@ -14,7 +14,7 @@ npm install -g vue-cli
 # 初始化项目
 vue init webpack my-project
 # 安装依赖
-cd nuxt-ssr-demo
+cd my-project
 npm install # Or yarn install
 # 启动本地服务
 npm run dev
