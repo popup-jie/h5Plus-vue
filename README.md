@@ -1,6 +1,6 @@
 # h5Plus-vue
 
-> A Vue.js and h5Plus project
+> 一个vue项目配合hbuilder软件实现HTML5开发应用的APP
 
 ## Use
 ```base
@@ -56,4 +56,3 @@ npm test
 将项目下的dist目录，拷贝到hbuilder文件中，配置好相关信息manifest.json,执行在线打包
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
